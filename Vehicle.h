@@ -84,3 +84,4 @@ public:
 		cout << "Towing capacity: " << towingCap << endl;
 	}
 };
+#endif // !1
